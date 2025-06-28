@@ -1,4 +1,3 @@
-<h1 align="center"><img src="/frontend/src/assets/Readmelogo.PNG" height="50px" align="center"/></h1>
 
 <p align="center">🚀 Excited to share my latest project — a Freelance platform for Developers! 👨‍💻✨
 
